@@ -18,4 +18,5 @@ Multiple pivarrs for media/backups managment.
 Oauth and Authelia for access authentication
 For the details you can check on my docker-compose-hanselv.yml
 Acks:
-The best guide, learned most of this great world here: htpcBeginner/SmartHomeBeginner 
+The best guide, learned most of this great world here: htpcBeginner/SmartHomeBeginner
+--THIS PROJECT IS ON HOLD--
